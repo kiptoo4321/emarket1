@@ -1,0 +1,262 @@
+body{
+    background-color: rgb(222, 221, 228);
+}
+#nav-links{
+    padding-left: 1050px;
+
+}
+.about:hover{
+    background-color: rgb(109, 94, 240);
+    cursor: pointer;
+}
+.contact:hover{
+    background-color: rgb(109, 94, 240);
+    cursor: pointer;
+}
+.main:hover{
+    background-color: rgb(109, 94, 240);
+    cursor: pointer;
+}
+.shop:hover{
+    background-color: rgb(109, 94, 240);
+    cursor: pointer;
+}
+#logo{
+    width: 50px;
+    height: 50px;
+    position: relative;
+}
+.text-overlay {
+    position: absolute;
+    top: 9%;
+    left: 8%; 
+    transform: translate(-50%, -50%); 
+    color: rgb(156, 21, 21); 
+    font-size: 25px;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7);
+}
+.text-overlay {
+    position: absolute;
+    top: 9%;
+    left: 8%; 
+    transform: translate(-50%, -50%); 
+    color: rgb(156, 21, 21); 
+    font-size: 25px;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7);
+}
+.text-image1{
+    font-size: 30px;
+    position: absolute;
+    top: 15%;
+    left: 37%; 
+
+}
+.text-image2{
+    font-size: 30px;
+    position: absolute;
+    top: 25%;
+    left: 37%; 
+
+}
+.text-image3{
+    font-size: 14px;
+    position: absolute;
+    top: 35%;
+    left: 37%; 
+}
+.sofa-image4{
+    font-size: 30px;
+    position: absolute;
+    top: 60%;
+    left: 37%; 
+
+}
+.sofa-image5{
+    font-size: 30px;
+    position: absolute;
+    top: 70%;
+    left: 37%; 
+
+}
+.sofa-image6{
+    font-size: 14px;
+    position: absolute;
+    top: 80%;
+    left: 37%; 
+}
+.spoon-image4{
+    font-size: 30px;
+    position: absolute;
+    top: 120%;
+    left: 37%; 
+
+}
+.spoon-image5{
+    font-size: 30px;
+    position: absolute;
+    top: 130%;
+    left: 37%; 
+
+}
+.spoon-image6{
+    font-size: 14px;
+    position: absolute;
+    top: 140%;
+    left: 37%; 
+}
+.tv-image4{
+    font-size: 30px;
+    position: absolute;
+    top: 170%;
+    left: 37%; 
+
+}
+.tv-image5{
+    font-size: 30px;
+    position: absolute;
+    top: 180%;
+    left: 37%; 
+
+}
+.tv-image6{
+    font-size: 14px;
+    position: absolute;
+    top: 190%;
+    left: 37%; 
+}
+.toilet-image4{
+    font-size: 30px;
+    position: absolute;
+    top: 220%;
+    left: 37%; 
+
+}
+.toilet-image5{
+    font-size: 30px;
+    position: absolute;
+    top: 230%;
+    left: 37%; 
+
+}
+.toilet-image6{
+    font-size: 14px;
+    position: absolute;
+    top: 240%;
+    left: 37%; 
+}
+.vase-image4{
+    font-size: 30px;
+    position: absolute;
+    top: 290%;
+    left: 37%; 
+
+}
+.vase-image5{
+    font-size: 30px;
+    position: absolute;
+    top: 300%;
+    left: 37%; 
+
+}
+.vase-image6{
+    font-size: 14px;
+    position: absolute;
+    top: 310%;
+    left: 37%; 
+}
+.kettle-image4{
+    font-size: 30px;
+    position: absolute;
+    top: 380%;
+    left: 37%; 
+
+}
+.kettle-image5{
+    font-size: 30px;
+    position: absolute;
+    top: 390%;
+    left: 37%; 
+
+}
+.kettle-image6{
+    font-size: 14px;
+    position: absolute;
+    top: 400%;
+    left: 37%; 
+}
+#info{
+    text-align: center;
+    color: red;
+}
+#number{
+    text-align: center;
+    color: red;
+}
+#email{
+    text-align: center;
+    color: red;
+}
+#footer{
+    background-color: rgb(208, 208, 236);
+}
+#back-button:hover{
+    background-color: blue;
+
+}#shop{
+    background-color: blue;
+}
+#shop-header{
+    color: rgb(42, 4, 255);
+    text-align: center;
+    text-decoration: underline;
+    font-size: 100px;
+}
+#image-shop{
+    
+}
+.purchase-button1,.purchase-button2,.purchase-button3,.purchase-button4,.purchase-button5,.purchase-button6,.purchase-button7{
+    background-color: orange;
+    border-color:black ;
+    cursor:pointer;
+}
+#shipping-background-image{
+    background-color:grey;
+    
+}
+
+#shipping-box{
+    text-align: center;
+}
+#form-shipping{
+    height: 1200px;
+    width: 300px;
+    padding-left: 500px;
+   border-radius: 4px;
+    padding-top: 130px;
+}
+.title{
+    color: red;
+}
+.button-submit{
+    background-color: rgb(197, 181, 181);
+    border: color black;
+    cursor: pointer;
+    
+}
+.button-calculate{
+    background-color: rgb(218, 202, 202);
+    border: color black;
+    cursor:pointer;
+}
+#fieldset{
+    margin: auto;
+    border-radius: 12px;
+    border-color: black;
+    
+}
+.messageBody{
+    color: blue;
+}
+#move{
+    text-align: center;
+}

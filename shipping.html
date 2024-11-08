@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shipping.com</title>
+    <link rel="stylesheet" href="main.css">
+    <div id="shipping-box">
+    </head>
+<body id="shipping-background-image">
+    <header>
+        <blockquote>
+            <p>
+                <strong><marquee style="background-color: red;" direction="right">
+                    Kindly input price of a product with respect to the main page
+                </marquee>
+                    
+                </strong>
+            </p>
+        </blockquote>
+    </header>
+    
+    <form id="form-shipping" class="form-ship">
+        <fieldset id="fieldset">
+            <legend class="title">
+                
+                Shipping details
+            </legend>
+            <label>Product:<select>
+                <option class="kettle">Kettle</option>
+                <option class="plates">Plates</option>
+                <option class="sofaset">Sofaset</option>
+                <option class="television">Television Set</option>
+                <option class="vase">Flower Vase</option>
+                <option class="toilet">Toilet Detergent</option>
+                <option>Serving Spoon</option>
+                
+            </select></label>
+            <br>
+            <br>
+            <label>Quantity:</label>
+            <input type="number" placeholder="Enter quantity" required class="quantity-input">
+            <br>
+            <br>
+
+            <label>Price:</label>
+            <input type="number" placeholder="Enter Price" class="price-input">
+            <br>
+            <br>
+            <P>*We offer free shipping services*</P>
+            
+            <button class="button-calculate" onclick="handleButton()">Calculate</button>
+            <button class="button-submit">Refresh</button>
+
+        </fieldset>
+    </form>
+    
+    </div>
+
+<a href="main.html">
+    <button>Back to main</button>
+</a>
+<script src="index.js"></script>
+</body>
+</html>
